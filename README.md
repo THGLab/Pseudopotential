@@ -1,8 +1,8 @@
 # GTH_Pseudopotentials and MOLOPT_Basis Sets
-<pre>
 GTH-PARAMETER_B97M-rV & GTH-PARAMETER_wB97X-V files:
-</pre>
+<pre>
 Provided herein are the optimized GTH pseudopotentials (PPs) at the levels of meta-GGA B97M-rV and hybrid ωB97X-V, tailored for main-group elements and metals including transition metals and noble metals.
+</pre>
 <pre>
 BASIS_MOLOPT_B97M-rV & BASIS_MOLOPT_wB97X-V files: 
 </pre>
